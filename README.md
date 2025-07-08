@@ -18,7 +18,7 @@ no trabalho em equipe. 😊
 ## Onde me encontrar
 
 - Email: rflmnzs0905@gmail.com
-- LinkedIn: [linkedin.com/in/rafael-menezes] (www.linkedin.com/in/rafael-menezes-738b06282)
+- LinkedIn: (https://linkedin.com/in/rafael-menezes)
 
   ---
 
