@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, sou o Rafael!
 
-<!--
-**rflmnzs/rflmnzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sou uma pessoa curiosa e envolvida no mundo da tecnologia, busco conhecer e me desenvolver de forma contínua dentro desta área.
 
-Here are some ideas to get you started:
+## O que faço
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Atualmente não trabalho na área que amo (Tecnologia da Informação), mas já busco uma oportunidade de estágio na área.
+- 🎓 Estudante de Sistemas de Informação no Senac.
+- 💻 Praticando Git, GitHub, Java e SQL.
+- 🚀 Em busca de uma oportunidade de ingresso no mercado de trabalho para crescer na área de TI.
+
+## Sobre mim
+
+Gosto de me distrair, amo videogame e qualquer coisa que me exija um pouco de criatividade, adoro desenvolver interfaces e
+criar programas do zero. Pessoalmente não sou a pessoa mais extrovertida do mundo, porém, sou bom em fazer amigos, especialmente 
+no trabalho em equipe. 😊
+
+## Onde me encontrar
+
+- Email: rflmnzs0905@gmail.com
+- LinkedIn: [linkedin.com/in/rafael-menezes] (www.linkedin.com/in/rafael-menezes-738b06282)
+
+  ---
+
