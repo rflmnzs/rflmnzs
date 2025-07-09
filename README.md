@@ -1,24 +1,27 @@
-# Olá, sou o Rafael!
+# Olá, sou o Rafael Menezes!
+Jovem amante e entusiasta da tecnologia, curioso e animado para desafios e em busca de aprendizado constante!!!
+## Conecte-se comigo
+Aqui estão algumas das minhas principais redes, vamos nos conectar! 😁
 
-sou uma pessoa curiosa e envolvida no mundo da tecnologia, busco conhecer e me desenvolver de forma contínua dentro desta área.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rafael-menezes-738b06282/)       [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_menezsog/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rflmnzs/rflmnzs) 
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rflmnzs0905@gmail.com)
 
-## O que faço
+## Habilidades
+Algumas das linguagens e ferramentas das quais estou me aprofundando atualmente:
 
-- 💼 Atualmente não trabalho na área que amo (Tecnologia da Informação), mas já busco uma oportunidade de estágio na área.
-- 🎓 Estudante de Sistemas de Informação no Senac.
-- 💻 Praticando Git, GitHub, Java e SQL.
-- 🚀 Em busca de uma oportunidade de ingresso no mercado de trabalho para crescer na área de TI.
 
-## Sobre mim
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/MySQL-000000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C11?style=for-the-badge&logo=git&logoColor=white)
 
-Gosto de me distrair, amo videogame e qualquer coisa que me exija um pouco de criatividade, adoro desenvolver interfaces e
-criar programas do zero. Pessoalmente não sou a pessoa mais extrovertida do mundo, porém, sou bom em fazer amigos, especialmente 
-no trabalho em equipe. 😊
+## GitHub Stats
 
-## Onde me encontrar
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rflmnzs&theme=transparent&bg_color=012&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-- Email: rflmnzs0905@gmail.com
-- LinkedIn: [linkein.com/in/rafael-menezes](https://linkedin.com/in/rafael-menezes-738b06282)
+## Minhas contribuições
 
-  ---
-
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rflmnzs&repo=dio-lab-open-source&bg_color=012&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rflmnzs/dio-lab-open-source)
