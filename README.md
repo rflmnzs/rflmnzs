@@ -18,6 +18,9 @@ Algumas das linguagens e ferramentas das quais estou me aprofundando atualmente:
 ![MySQL](https://img.shields.io/badge/MySQL-000000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C11?style=for-the-badge&logo=git&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rflmnzs&layout=compact&theme=dark&langs_count=6&hide_title=true)
+
+
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rflmnzs&theme=transparent&bg_color=012&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
